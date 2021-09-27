@@ -1,0 +1,10 @@
+P:\Progammieren\Git Repositorys\storeroomdata\storeroomdata\storeroomdata\bin\Debug\storeroomdata.exe.config
+P:\Progammieren\Git Repositorys\storeroomdata\storeroomdata\storeroomdata\bin\Debug\storeroomdata.exe
+P:\Progammieren\Git Repositorys\storeroomdata\storeroomdata\storeroomdata\bin\Debug\storeroomdata.pdb
+P:\Progammieren\Git Repositorys\storeroomdata\storeroomdata\storeroomdata\obj\Debug\storeroomdata.csproj.AssemblyReference.cache
+P:\Progammieren\Git Repositorys\storeroomdata\storeroomdata\storeroomdata\obj\Debug\storeroomdata.Form1.resources
+P:\Progammieren\Git Repositorys\storeroomdata\storeroomdata\storeroomdata\obj\Debug\storeroomdata.Properties.Resources.resources
+P:\Progammieren\Git Repositorys\storeroomdata\storeroomdata\storeroomdata\obj\Debug\storeroomdata.csproj.GenerateResource.cache
+P:\Progammieren\Git Repositorys\storeroomdata\storeroomdata\storeroomdata\obj\Debug\storeroomdata.csproj.CoreCompileInputs.cache
+P:\Progammieren\Git Repositorys\storeroomdata\storeroomdata\storeroomdata\obj\Debug\storeroomdata.exe
+P:\Progammieren\Git Repositorys\storeroomdata\storeroomdata\storeroomdata\obj\Debug\storeroomdata.pdb
